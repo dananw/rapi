@@ -3,6 +3,7 @@ development:
   database: rapi_db_development
   pool: 5
   timeout: 5000
+
 test:
   adapter: postgresql
   database: rapi_db_test
